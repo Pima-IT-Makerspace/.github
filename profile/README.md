@@ -1,0 +1,2 @@
+Through the IoT Makerspace project, we will design, develop, and operationalize a functional IoT-driven smart home environment within a compact space. 
+The project focuses on integrating various IoT devices, demonstrating their functionalities and security vulnerabilities and creating an interactive learning space for educational purposes.
